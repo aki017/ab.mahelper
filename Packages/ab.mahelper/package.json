@@ -1,0 +1,17 @@
+{
+    "name": "ab.scene-recovery",
+    "displayName": "Aburi Moduler Avatar Helper",
+    "version": "0.0.1",
+    "description": "Aburi Moduler Avatar Helper",
+    "gitDependencies": {},
+    "vpmDependencies": {
+        "com.vrchat.avatars" : "3.5.x",
+        "nadena.dev.modular-avatar" : "1.8.3"
+    },
+    "author": {
+      "name": "Aburizushi",
+      "email": "aki@aki017.info"
+    },
+    "legacyFolders": {},
+    "legacyFiles": {}
+  }
